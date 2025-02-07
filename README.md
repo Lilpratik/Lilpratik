@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My Profile! 🚀
 
-<!--
-**Lilpratik/Lilpratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **LilPratik**, a passionate developer constantly learning and building cool projects.  
 
-Here are some ideas to get you started:
+Check out my portfolio here:  
+🔗 **[LilPratik's Portfolio](https://lilp-webport-zone.vercel.app/)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔥 Passionate about coding and problem-solving  
+- 💻 Exploring new technologies  
+- 🎯 Always improving my skills
+
+![](https://leetcard.jacoblin.cool/pratikmohite343?ext=heatmap)
+
+  ![GitHub metrics](https://metrics.lecoq.io/Lilpratik)
+
+## 🌐 Connect with Me
+📧 Reach out via my portfolio: [Click Here](https://lilp-webport-zone.vercel.app/)  
+
+---
+
+🔥 **Stay tuned for more projects and updates!**  
