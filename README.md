@@ -12,7 +12,8 @@ Check out my portfolio here:
 
 ![](https://leetcard.jacoblin.cool/pratikmohite343?ext=heatmap)
 
-  ![GitHub metrics](https://metrics.lecoq.io/Lilpratik)
+  ![Metrics](https://github.com/Lilpratik/Lilpratik/blob/main/github-metrics.svg)
+
 
 ## 🌐 Connect with Me
 📧 Reach out via my portfolio: [Click Here](https://lilp-webport-zone.vercel.app/)  
