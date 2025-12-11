@@ -10,9 +10,9 @@ Check out my portfolio here:
 - 💻 Exploring new technologies  
 - 🎯 Always improving my skills
 
-![](https://leetcard.jacoblin.cool/pratikmohite343?ext=heatmap)
 
-  ![Metrics](https://github.com/Lilpratik/Lilpratik/blob/main/github-metrics.svg)
+
+  ![](https://github.com/Lilpratik/Lilpratik/blob/main/github-metrics.svg)
 
 
 ## 🌐 Connect with Me
