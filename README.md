@@ -11,9 +11,7 @@ Check out my portfolio here:
 - 🎯 Always improving my skills
 
 
-
-  ![](https://github.com/Lilpratik/Lilpratik/blob/main/github-metrics.svg)
-
+![GitHub Contributions](https://ghchart.rshah.org/Lilpratik)
 
 ## 🌐 Connect with Me
 📧 Reach out via my portfolio: [Click Here](https://lilp-webport-zone.vercel.app/)  
